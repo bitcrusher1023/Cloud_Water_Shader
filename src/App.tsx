@@ -5,7 +5,7 @@ import { ZoomInClouds } from './Components/ZoomInClouds';
 import { BackgroundClouds } from './Components/BackgroundClouds';
 import { Highlights } from './Components/Highlights';
 import { Ocean } from './Components/Water';
-//  
+//  Main App
 
 function App() {
   return (
